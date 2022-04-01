@@ -1,0 +1,278 @@
+a {
+	text-decoration: none;
+}
+body {
+	font-family: 'Merienda One', cursive;
+	background-color: black;
+}
+h1 {
+	color: black;
+	font-size: 40px;
+}
+.ennemy_text {
+	text-align: center;
+	font-size: 27px;
+}
+#titre {
+	width: 100vw;
+	height: 62vh;
+	background-image: url(file:///Users/justinlaine/Desktop/landing-page/img/OP.jpg);
+	background-color: white;
+	background-size: 60%;
+	background-position: center;
+	justify-content: center;
+	text-align: center;
+}
+.header {
+	width: 100vw;
+	padding: 20px;
+	background-color: black;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+.linkhead {
+	padding: 20px 40px;
+	color: white;
+	background-color: black;
+}
+.linkhead:hover {
+	color: red;
+	background-color: #daba86;
+}
+#titre-1 {
+	padding-top: 20px;
+	padding-bottom: 160px;
+
+}
+#titre-2 {
+	padding-top: 180px;
+	padding-bottom: 5px;
+}
+#button {
+	color:  white;
+  	background-color: red;
+  	border-radius: 5px;
+  	padding:  10px 15px;
+  	font-weight: 900;
+  	box-shadow: 0px 10px 10px rgba(30, 30, 30, 0.6);
+ 	width: 80px;
+}
+#button:hover {
+	color: red;
+	background-color: white;
+}
+._perso{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: rgba(255, 255, 255, 0.8);
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-right: 700px;
+	margin-left: 20px;
+	border-radius: 10px;
+	border: 5px solid black;
+}
+._perso-2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(255, 255, 255, 0.8);
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 715px;
+	margin-right: 5px;
+	border-radius: 10px;
+	border: 5px solid black;
+}
+.perso_img {
+	width: 200px;
+	height: 200px;
+}
+.perso-2-1 {
+	width: auto;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.perso-1-1 {
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+.perso-2-2 {
+	width: auto;
+	padding-left: 20px;
+}
+.perso-1-2 {
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+.perso_img{
+	border-radius: 5px;
+}
+#_fruits {
+	width: 100vw;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	background: linear-gradient(90deg, #9c6a3c 12.5%, #dda067 12.5%, #dda067 37.5%, #9c6a3c 37.5%, #9c6a3c 62.5%, #dda067 62.5%, #dda067 87.5%, #9c6a3c 87.5%);
+  	background-size: 80px 80px;
+  	background-position: 50px 50px;
+}
+.card {
+	background-color: #efd29c;
+	width: 400px;
+	height: 400px;
+	box-shadow: 0 5px 16px rgba(100, 100, 100, 0.6);
+	border-radius: 4px;
+	padding: 34px;
+	margin: 8px;
+	text-align: center;
+}
+.card img {
+	width: 60%;
+	height: 60%;
+	border-radius: 4px;
+}
+#footer {
+	width: 100vw;
+	background-color: gray;
+	color: white;
+	padding: 2%;
+	text-align: center;
+	margin-top: 20px;
+
+}
+#_equipe{
+	width: 100vw;
+	align-content: center;
+	background-image: url(https://khooz.com/newsblue/wp-content/uploads/2020/02/worldmap-onepiece-by-sharpsider-1200px-8bits.png);
+	background-position: center;
+	object-position: 50%;
+}
+#_equipe-1 {
+	padding-bottom: 20px;
+}
+._inter{
+	width: 100vw;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-image: url(file:///Users/justinlaine/Desktop/landing-page/img/Shapes.jpg);
+	background-position: 100%;
+	background-size: 80%;
+	background-color: white;
+	border: 2px solid black;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	font-size: 30px;
+}
+.ennemi-0-1 {
+	display: flex;
+	justify-content: space-around;
+}
+.ennemi_img {
+	width: 300px;
+}
+.ennemi-1 {
+	text-align: center;
+	background-color: #313131;
+	color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 500px;
+	border-radius: 10px;
+	box-shadow: 0px 5px 15px lightgrey;
+}
+.ennemi_img {
+	border-radius: 10px;
+	width: 300px; 
+	height: 300px; 
+	object-fit: cover;
+	object-position: 100% 0%;
+}
+._nom-ennemi {
+	font-size: 23px;
+}
+.ennemi-0-2-1 {
+	display: flex;
+	justify-content: space-around;
+}
+.ennemi-2 {
+	text-align: center;
+	background-color: #1c7abe;
+	color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 500px;
+	border-radius: 10px;
+	box-shadow: 0px 5px 15px gray;
+}
+#Big-Mom_img {
+	object-position: 50%;
+}
+#aokiji_img {
+	object-position: 50%;
+}
+#marine-1-1 {
+	margin-bottom: 50px;
+}
+#marine {
+	width: 100vw;
+	background-image: url(file:///Users/justinlaine/Desktop/landing-page/img/Marine_B.png);
+	border-top: 5px solid darkred;
+}
+#pirates {
+	width: 100vw;
+	background-image: url(file:///Users/justinlaine/Desktop/landing-page/img/PIrates.png);
+}
+#marine-1 {
+	padding-top: 21px;
+	padding-bottom: 31px;
+}
+#pirates-1{
+	padding-top: 31px;
+	padding-bottom: 31px;
+}
+.allies-1 {
+	text-align: center;
+	background-color: #313131;
+	color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 500px;
+	border-radius: 10px;
+	box-shadow: 0px 5px 15px lightgrey;
+}
+#_allies {
+	padding-top: 0px;
+	background-image: url(file:///Users/justinlaine/Desktop/landing-page/img/Allies.png);
+}
+#_allies-1 {
+	display: flex;
+	justify-content: space-around;
+}
+#sy-mettre_1 {
+	text-align: center;
+}
+.text_fruit {
+	padding: 10px;
+	background-color: #ffe1A8;
+	border-radius: 10px;
+}
+#synopsis {
+	color: white;
+	width: 800px;
+	margin: 10px auto;
+}
