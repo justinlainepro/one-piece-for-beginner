@@ -16,7 +16,7 @@ h1 {
 #titre {
 	width: 100vw;
 	height: 62vh;
-	background-image: url(file:///Users/justinlaine/Desktop/landing-page/img/OP.jpg);
+	background-image: url(img/OP.jpg);
 	background-color: white;
 	background-size: 60%;
 	background-position: center;
@@ -159,7 +159,7 @@ h1 {
 	width: 100vw;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-image: url(file:///Users/justinlaine/Desktop/landing-page/img/Shapes.jpg);
+	background-image: url(img/Shapes.jpg);
 	background-position: 100%;
 	background-size: 80%;
 	background-color: white;
@@ -227,12 +227,12 @@ h1 {
 }
 #marine {
 	width: 100vw;
-	background-image: url(file:///Users/justinlaine/Desktop/landing-page/img/Marine_B.png);
+	background-image: url(img/Marine_B.png);
 	border-top: 5px solid darkred;
 }
 #pirates {
 	width: 100vw;
-	background-image: url(file:///Users/justinlaine/Desktop/landing-page/img/PIrates.png);
+	background-image: url(img/PIrates.png);
 }
 #marine-1 {
 	padding-top: 21px;
@@ -257,7 +257,7 @@ h1 {
 }
 #_allies {
 	padding-top: 0px;
-	background-image: url(file:///Users/justinlaine/Desktop/landing-page/img/Allies.png);
+	background-image: url(img/Allies.png);
 }
 #_allies-1 {
 	display: flex;
